@@ -8,3 +8,12 @@
   list-style: none;
   font-family: 'Press Start 2P', cursive;
 }
+
+.linear-bg {
+  background: linear-gradient(135deg, #1B2874 30%, #324E84);
+}
+
+.starry-bg {
+  background-image: url(../imgs/starry-bg.png);
+  background-size: 70%;
+}
