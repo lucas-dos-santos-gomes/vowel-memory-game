@@ -1,10 +1,16 @@
+.linear-bg {
+  /* background: linear-gradient(135deg, #491D8E 5%, #324E84); */
+  background: linear-gradient(135deg, #1B2874 30%, #324E84);
+}
+
 .login-form {
   align-items: center;
   display: flex;
   flex-direction: column;
   height: 100vh;
   justify-content: center;
-  background-color: #12005C;
+  background-image: url(../imgs/starry-bg.png);
+  background-size: 70%;
 }
 
 .login_header {
